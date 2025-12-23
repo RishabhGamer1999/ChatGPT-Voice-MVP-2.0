@@ -1,0 +1,5 @@
+{
+  "name": "ChatGPT Voice Confidence MVP",
+  "description": "A data-driven prototype for voice confidence features targeting Hinglish speakers, using the specific JSON model provided.",
+  "requestFramePermissions": []
+}
